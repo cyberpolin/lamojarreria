@@ -8,6 +8,10 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily:{
+        'roboto': ['var(--font-roboto)', 'sans-serif'],
+        'lilita-one': ['var(--font-lilita-one)', 'cursive'],
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
