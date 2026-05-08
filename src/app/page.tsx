@@ -8,7 +8,7 @@ export default function Home() {
       <div className="flex flex-col justify-center items-center lg:items-start w-1/2 min-h-screen sm:pl-20 ">
         <div className="inline-block mb-20 lg:mb-40">
         <Logo/>
-          <h1 className="font-lilita-one text-3xl lg:text-7xl">Mojarra frita o asada</h1>
+          <h1 className="font-lilita-one text-3xl lg:text-7xl">Mojarra frita</h1>
           <p className="font-lilita-one lg:text-3xl">Solo lo mejor, solo mojarras</p>
         </div>
         <div>
